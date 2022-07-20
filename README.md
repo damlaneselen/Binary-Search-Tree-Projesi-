@@ -82,4 +82,5 @@ Binary Search Tree Aşamaları
   2   4
   
   
-patika.dev/tr
+  
+ (https://www.patika.dev/tr)

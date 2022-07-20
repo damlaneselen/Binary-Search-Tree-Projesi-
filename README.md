@@ -3,6 +3,8 @@
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
+(https://www.patika.dev/tr)
+
 Binary Search Tree Aşamaları
 ```
   7
@@ -83,4 +85,4 @@ Binary Search Tree Aşamaları
   
   
   
- (https://www.patika.dev/tr)
+
